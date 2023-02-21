@@ -8,8 +8,8 @@
 ---
 
 🧠**Lenguages:**
->🇪🇸 Spanish-Native.
->🇺🇸 English-Intermediate
+> - 🇪🇸 Spanish-Native.
+> - 🇺🇸 English-Intermediate.
 
 - 🌱 **I’m currently learning in:**
  > - 📓Vuejs.
