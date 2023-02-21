@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
    <h1 align="center">👨🏻‍💻*Welcome to my github*👨🏻‍💻</h1> 
-    <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="500"/>
+    <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="500" height="500"/>
   <h3 align="center">Good morning, good afternoon and good evening, A passionate web fullstack developer from Colombia, I like to learn everything about the tecnology.</h3>
 </div> 
 
@@ -12,13 +12,13 @@
 🇺🇸 English-Intermediate
 
 - 🌱 **I’m currently learning in:**
- > -📓Vuejs.
- > -📓React.
- > -📓The consume the api's in different computer languages.
- > -🗽Improve my english.
- > -🧉Creating personal projects.
+ > - 📓Vuejs.
+ > - 📓React.
+ > - 📓The consume the api's in different computer languages.
+ > - 🗽Improve my english.
+ > - 🧉Creating personal projects.
  
--📫 How to reach me: emmanuelberriojimenez@gmail.com
+- 📫 How to reach me: emmanuelberriojimenez@gmail.com
 ---
 <div align="left">
   <h3>🔨 Languages and Tools:</h3>
