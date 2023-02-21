@@ -9,7 +9,7 @@
 
 🧠**Lenguages:**
 >🇪🇸 Spanish-Native.
-🇺🇸 English-Intermediate
+>🇺🇸 English-Intermediate
 
 - 🌱 **I’m currently learning in:**
  > - 📓Vuejs.
