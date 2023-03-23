@@ -13,7 +13,6 @@
 
 - 🌱 **I’m currently learning in:**
  > - 📓Vuejs.
- > - 📓React.
  > - 📓The consume the api's in different computer languages.
  > - 🗽Improve my english.
  > - 🧉Creating personal projects.
