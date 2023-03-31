@@ -26,7 +26,9 @@
      width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3"
      width="40" height="40"/>&nbsp;   
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JAVASCRIPT" alt="JAVASCRIPT"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JAVASCRIPT" alt="JAVASCRIPT"
+     width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JAVASCRIPT" alt="TYPESCRIPT"
      width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="BOOTSTRAP" alt="BOOTSTRAP"
      width="40" height="40"/>&nbsp;
