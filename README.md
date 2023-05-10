@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
    <h1 align="center">👨🏻‍💻<b>Welcome to my github</b>👨🏻‍💻</h1> 
-    <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="500" />
+    <img src="./img/Banner.png" width="900" height="350" />
   <h3 align="center">Good morning, good afternoon and good evening, I'm a passionate web fullstack developer from Colombia, I like to learn everything about the tecnology.</h3>
 </div> 
 
