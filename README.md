@@ -12,7 +12,6 @@
 > - 🇺🇸 English-Intermediate.
 
 - 🌱 **I’m currently learning in:**
- > - 📓Vuejs.
  > - 📓The consume the api's in different computer languages.
  > - 🗽Improve my english.
  > - 🧉Creating personal projects.
