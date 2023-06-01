@@ -29,6 +29,8 @@
      width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="TYPESCRIPT" alt="TYPESCRIPT"
      width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACTJS" alt="REACTJS"
+     width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="VUEJS" alt="VUEJS"
      width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="BOOTSTRAP" alt="BOOTSTRAP"
