@@ -2,7 +2,7 @@
 <div id="header" align="center">
    <h1 align="center">👨🏻‍💻<b>Welcome to my github</b>👨🏻‍💻</h1> 
     <img src="./img/Banner.png" width="900" height="350" />
-  <h3 align="center">Good morning, good afternoon and good evening, I'm a passionate web fullstack developer from Colombia, I like to learn everything about the tecnology.</h3>
+  <h3 align="center">I'm a programmer with experience in web development, I'm highly motivated by the challenge of creating innovative solutions to complex problems. With skills in Html, Css, Sass, Tailwind, SCRUM, JavaScript, TypeScript, Vuejs, Reactjs, Php, Mysql, Git, XAMPP, Laragon, SDLC and UMl diagrams, I have delivered quality projects under tight deadlines. In addition, I have a great ability to collaborate in a team, communicate ideas effectively, learn new things if the project requires it, be open to changes constantly and keep myself updated with the latest trends in technology.</h3>
 </div> 
 
 ---
