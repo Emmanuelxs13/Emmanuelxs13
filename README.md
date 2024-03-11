@@ -9,14 +9,14 @@
 
 🧠**Lenguages:**
 > - 🇪🇸 Spanish-Native.
-> - 🇺🇸 English-Intermediate.
+> - 🇺🇸 English-B2.
 
 - 🌱 **I’m currently learning in:**
  > - 📓The consume the api's in different computer languages.
  > - 🗽Improve my english.
  > - 🧉Creating personal projects.
  
-- 📫 How to reach me: emmanuelberriojimenez@gmail.com
+- 📫 How to reach me: emmanuelberriojimenez13@gmail.com
 ---
 <div align="left">
   <h3>🔨 Languages and Tools:</h3>
