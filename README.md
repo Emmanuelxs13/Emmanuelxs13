@@ -1,8 +1,9 @@
 
-<div id="header" align="center">
+<div id="header">
    <h1 align="center">👨🏻‍💻<b>Welcome to my github</b>👨🏻‍💻</h1> 
-    <img src="./img/Banner.png" width="900" height="350" />
-  <h3 align="center">Soy programador con experiencia en desarrollo web, me motiva mucho el reto de crear soluciones innovadoras a problemas complejos. Con habilidades en Html, Css, Sass, Tailwind, SCRUM, JavaScript, TypeScript, Vuejs, Reactjs, Php, Mysql, Git, XAMPP, Laragon, SDLC y diagramas UMl, he entregado proyectos de calidad bajo plazos ajustados. Además, tengo una gran capacidad para colaborar en equipo, comunicar ideas de manera efectiva, aprender cosas nuevas si el proyecto lo requiere, estar abierto a cambios constantemente y mantenerme actualizado con las últimas tendencias en tecnología.</h3>
+    <img src="https://github.com/Emmanuelxs13/Emmanuelxs13/assets/123176096/87a4fa01-e170-46fb-92ad-4ef4947423f1"/>
+<!--    ![Foto Inicio - Github](https://github.com/Emmanuelxs13/Emmanuelxs13/assets/123176096/87a4fa01-e170-46fb-92ad-4ef4947423f1) -->
+  <h3>Soy programador con experiencia en desarrollo web, me motiva mucho el reto de crear soluciones innovadoras a problemas complejos. Con habilidades en Html, Css, Sass, Tailwind, SCRUM, JavaScript, TypeScript, Vuejs, Reactjs, Php, Mysql, Git, XAMPP, Laragon, SDLC y diagramas UMl, he entregado proyectos de calidad bajo plazos ajustados. Además, tengo una gran capacidad para colaborar en equipo, comunicar ideas de manera efectiva, aprender cosas nuevas si el proyecto lo requiere, estar abierto a cambios constantemente y mantenerme actualizado con las últimas tendencias en tecnología.</h3>
 </div> 
 
 ---
