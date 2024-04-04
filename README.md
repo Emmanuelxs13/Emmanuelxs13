@@ -2,22 +2,27 @@
 <div id="header">
    <h1 align="center">👨🏻‍💻<b>Welcome to my github</b>👨🏻‍💻</h1> 
     <img src="https://github.com/Emmanuelxs13/Emmanuelxs13/assets/123176096/87a4fa01-e170-46fb-92ad-4ef4947423f1"/>
-<!--    ![Foto Inicio - Github](https://github.com/Emmanuelxs13/Emmanuelxs13/assets/123176096/87a4fa01-e170-46fb-92ad-4ef4947423f1) -->
-  <h3>Soy programador con experiencia en desarrollo web, me motiva mucho el reto de crear soluciones innovadoras a problemas complejos. Con habilidades en Html, Css, Sass, Tailwind, SCRUM, JavaScript, TypeScript, Vuejs, Reactjs, Php, Mysql, Git, XAMPP, Laragon, SDLC y diagramas UMl, he entregado proyectos de calidad bajo plazos ajustados. Además, tengo una gran capacidad para colaborar en equipo, comunicar ideas de manera efectiva, aprender cosas nuevas si el proyecto lo requiere, estar abierto a cambios constantemente y mantenerme actualizado con las últimas tendencias en tecnología.</h3>
+
+```
+   const habilidadesEmmanuel = {
+      pronuns: "he" | "him",
+      code: [Html, Css, Sass, Tailwind, JavaScript, Php],
+      tools: [TypeScript, Vuejs, Reactjs, Mysql, Git, XAMPP, Laragon, SDLC y diagramas UMl]
+   }
+```
+  <h4>Soy programador con experiencia tanto en el desarrollo Frontend como Backend, encuentro una fuente constante de motivación en el desafío de idear soluciones innovadoras para problemas complejos. He demostrado consistentemente mi habilidad para entregar proyectos de alta calidad dentro de plazos ajustados. Además, me destaco por mi capacidad para colaborar efectivamente en equipos, comunicar ideas de manera clara y precisa, y adaptarme a cambios constantes. Estoy siempre dispuesto a aprender nuevas tecnologías y mantenerme al día con las últimas tendencias en el campo de la tecnología para garantizar que mis habilidades estén siempre actualizadas y relevantes.</h4>
 </div> 
 
 ---
 
-🧠**Lenguages:**
-> - 🇪🇸 Spanish-Native.
-> - 🇺🇸 English-B2.
+🧠**Idiomas:**
+> - 🇪🇸 Español-Nativo.
+> - 🇺🇸 Inglés-B2.
 
-- 🌱 **I’m currently learning in:**
- > - 📓The consume the api's in different computer languages.
- > - 🗽Improve my english.
- > - 🧉Creating personal projects.
- 
-- 📫 How to reach me: emmanuelberriojimenez13@gmail.com
+📫 **Puedes contactarme por:** 
+> - [Gmail](emmanuelberriojimenez13@gmail.com)
+> - [LinkedIn](www.linkedin.com/in/emmanuel-berrio-jimenez)
+
 ---
 <div align="left">
   <h3>🔨 Languages and Tools:</h3>
