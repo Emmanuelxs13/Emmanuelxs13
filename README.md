@@ -19,38 +19,52 @@
 > - 🇪🇸 Español-Nativo.
 > - 🇺🇸 Inglés-B2.
 
-📫 **Puedes contactarme por:** 
-> - [Gmail](emmanuelberriojimenez13@gmail.com)
-> - [LinkedIn](www.linkedin.com/in/emmanuel-berrio-jimenez)
+<a href="mailto:emmanuelberriojimenez13@gmail.com" target='_blank'>
+   <img src="https://img.shields.io/badge/Gmail-Gmail?style=flat-square&logo=gmail&label=Mi&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" (mailto:test@test.com)
+</a>
+ <a href="https://www.linkedin.com/in/emmanuel-berrio-jimenez/" target="_blank">
+   <img src="https://img.shields.io/static/v1?message=LinkedIn&style=flat-square&logo=linkedin&label=Mi&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+ </a>
 
 ---
-<div align="left">
-  <h3>🔨 Languages and Tools:</h3>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML"
-     width="40" height="40"/>&nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3"
-     width="40" height="40"/>&nbsp;   
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JAVASCRIPT" alt="JAVASCRIPT"
-     width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="TYPESCRIPT" alt="TYPESCRIPT"
-     width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACTJS" alt="REACTJS"
-     width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="VUEJS" alt="VUEJS"
-     width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="BOOTSTRAP" alt="BOOTSTRAP"
-     width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" alt="MYSQL"
-     width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP"
-     width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="GIT"
-     width="40" height="40"/>&nbsp;
-  </div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelxs13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emmanuelxs13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
-## 📊 My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelxs13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <h3>🔨 Languages and Tools:</h3>
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="reactjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+</div>
+</div>
+
+
 
