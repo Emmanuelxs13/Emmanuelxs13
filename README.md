@@ -11,7 +11,7 @@
       }
 
    ```
-     <h4>Soy un programador con experiencia tanto en el desarrollo Frontend como Backend, encuentro una fuente constante de motivación en el desafío de idear soluciones innovadoras para problemas complejos. He demostrado consistentemente mi habilidad para entregar proyectos de alta calidad dentro de plazos ajustados. Además, me destaco por mi capacidad para colaborar efectivamente en equipos, comunicar ideas de manera clara y precisa, y adaptarme a cambios constantes. Estoy siempre dispuesto a aprender nuevas tecnologías y mantenerme al día con las últimas tendencias en el campo de la tecnología para garantizar que mis habilidades estén siempre actualizadas y relevantes.</h4>
+Soy un programador con experiencia tanto en el desarrollo Frontend como Backend, encuentro una fuente constante de motivación en el desafío de idear soluciones innovadoras para problemas complejos. He demostrado consistentemente mi habilidad para entregar proyectos de alta calidad dentro de plazos ajustados. Además, me destaco por mi capacidad para colaborar efectivamente en equipos, comunicar ideas de manera clara y precisa, y adaptarme a cambios constantes. Estoy siempre dispuesto a aprender nuevas tecnologías y mantenerme al día con las últimas tendencias en el campo de la tecnología para garantizar que mis habilidades estén siempre actualizadas y relevantes.
    </div> 
    
    ---
