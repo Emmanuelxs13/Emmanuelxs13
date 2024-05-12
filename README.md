@@ -6,7 +6,7 @@
    ```
       const habilidadesEmmanuel = {
          pronuns: "he" | "him",
-         code: [Html, Css, Sass, Tailwind, JavaScript, Php],
+         code: [Html, Css, Sass, Tailwind, JavaScript, Php, Python],
          tools: [TypeScript, Vuejs, Reactjs, Mysql, Git, XAMPP, Laragon, SDLC y diagramas UMl]
       }
 
