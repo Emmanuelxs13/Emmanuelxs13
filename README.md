@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>
-    🚀 Desarrollador Fullstack | Apasionado por la Innovación y la Resolución de Problemas 🚀
+     Desarrollador Fullstack | Apasionado por la Innovación y la Resolución de Problemas 
   </b>
 </p>
 
