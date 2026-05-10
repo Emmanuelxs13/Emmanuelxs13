@@ -38,10 +38,7 @@ const emmanuel: Desarrollador = {
   ubicación: 'Colombia 🇨🇴',
   idiomas: [
     '🇪🇸 Español (Nativo)',
-    '🇺🇸 Inglés (B2)',
-    '🇧🇷 Portugués (A2)',
-    '🇫🇷 Francés (A1)',
-    '🇩🇪 Alemán (A1)',
+    '🇺🇸 Inglés (B2)'
   ],
   stack: {
     frontend: ['React', 'Next.js', 'Vue.js', 'TypeScript', 'Tailwind CSS', 'Sass'],
@@ -60,12 +57,9 @@ const emmanuel: Desarrollador = {
     'Mentoría de equipos',
   ],
   enfoqueActual: 'Desarrollo de productos fullstack de alta calidad bajo presión',
-  abiertoA: 'Nuevas oportunidades laborales y colaboraciones 🤝',
-  datoCurioso: 'Transformo café en aplicaciones escalables ☕→🖥️',
+  abiertoA: 'Nuevas oportunidades laborales y colaboraciones ',
 };
 ```
-
----
 
 ##  Resumen Profesional
 
