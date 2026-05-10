@@ -1,109 +1,188 @@
-<div id="header" align="center">
-  <h1>👨🏻‍💻 <b>¡Bienvenidos a mi GitHub!</b> 👨🏻‍💻</h1>
-  <picture>
-    <source srcset="https://github.com/Emmanuelxs13/Emmanuelxs13/assets/123176096/87a4fa01-e170-46fb-92ad-4ef4947423f1" media="(prefers-color-scheme: dark)">
-    <img src="https://github.com/Emmanuelxs13/Emmanuelxs13/assets/123176096/87a4fa01-e170-46fb-92ad-4ef4947423f1" alt="Banner" width="100%" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);" />
-  </picture>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Emmanuel%20Berrío&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20·%20Problem%20Solver%20·%20Tech%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Developer+%7C+Frontend+%26+Backend;Building+scalable+web+applications;Always+learning%2C+always+growing+%F0%9F%9A%80;Open+to+new+opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-<p align="center">
-  <b>
-     Desarrollador Fullstack | Apasionado por la Innovación y la Resolución de Problemas 
-  </b>
-</p>
+<div align="center">
 
-<p align="center">
-Soy un programador fullstack con experiencia en el desarrollo <b>Frontend</b> y <b>Backend</b>, capaz de crear soluciones desde la concepción hasta la entrega. Me especializo en tecnologías modernas y frameworks populares, con un enfoque en la entrega de productos de <b>alta calidad</b> bajo presión. <br />
-<br />
-Me motiva el desafío de innovar, resolver problemas complejos y mantenerme actualizado con las últimas tendencias tecnológicas. Destaco por mi capacidad de trabajo en equipo, comunicación clara y flexibilidad ante cambios. ¡Siempre estoy listo para aprender nuevas herramientas y aportar valor a cualquier proyecto!
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Berrío-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-berrio-jimenez/)
+[![Gmail](https://img.shields.io/badge/Gmail-emmanuelberriojimenez13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelberriojimenez13@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Emmanuelxs13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmanuelxs13)
+![Profile Views](https://komarev.com/ghpvc/?username=Emmanuelxs13&style=for-the-badge&color=7C3AED&label=Profile+Views)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```typescript
+const emmanuel: Developer = {
+  name:       "Emmanuel Berrío Jiménez",
+  role:       "Fullstack Developer",
+  location:   "Colombia 🇨🇴",
+  languages:  ["🇪🇸 Spanish (Native)", "🇺🇸 English (B2)"],
+
+  stack: {
+    frontend:  ["React", "Next.js", "Vue.js", "TypeScript", "Tailwind CSS", "Sass"],
+    backend:   ["Node.js", "PHP", "Python", "C# .NET"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB"],
+    devops:    ["Docker", "Git", "Linux"],
+    tools:     ["XAMPP", "Laragon", "UML", "SDLC"],
+  },
+
+  softSkills: [
+    "Effective communication",
+    "Team collaboration",
+    "Problem-solving mindset",
+    "Time management",
+    "Continuous learning",
+  ],
+
+  currentFocus:    "Building high-quality fullstack products under pressure",
+  openTo:          "New job opportunities & collaborations 🤝",
+  funFact:         "I turn coffee into scalable web apps ☕→🖥️",
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044); background:white; border-radius:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo  style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" style="margin: 8px; filter: drop-shadow(0 2px 6px #00000044);" />
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vue&perline=9" />
+</p>
+
+### ⚙️ Backend & Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,cs,dotnet&perline=9" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=9" />
+</p>
+
+### 🧰 Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&perline=9" />
 </p>
 
 ---
 
-## 👨🏻‍💻 Sobre Mí
+## 📊 GitHub Analytics
 
-```js
-const emmanuel = {
-  pronouns: "he" | "him",
-  stack: [
-    "HTML", "CSS", "Sass", "Tailwind", "JavaScript", "TypeScript", "Vue.js", 
-    "React", "Next.js", "Node.js", "PHP", "Python", "C# .NET"
-  ],
-  tools: [
-    "MySQL", "PostgreSQL", "MongoDB", "Git", "Docker", 
-    "Linux", "XAMPP", "Laragon", "SDLC", "UML diagrams"
-  ],
-  softSkills: [
-    "Comunicación efectiva", "Trabajo en equipo", "Resolución de problemas", "Gestión del tiempo", "Aprendizaje continuo"
-  ]
-}
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelxs13&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="200"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelxs13&theme=tokyonight&hide_border=true&border_radius=16&layout=compact&langs_count=8&card_width=320" height="200"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuelxs13&theme=tokyonight&hide_border=true&border_radius=16&date_format=M%20j%5B%2C%20Y%5D&stroke=7C3AED&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" width="700"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Emmanuelxs13&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7" width="100%"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emmanuelxs13&theme=tokyo-night&hide_border=true&border_radius=16&area=true&area_color=7C3AED&color=A78BFA&line=7C3AED&point=ffffff" width="100%"/>
+</div>
+
+---
+
+## 🌟 Skills Proficiency
+
+```text
+JavaScript / TypeScript  ████████████████████░░  90%
+React / Next.js          ███████████████████░░░░  85%
+Vue.js                   ████████████████░░░░░░░  75%
+Node.js                  ████████████████░░░░░░░  75%
+PHP                      ██████████████░░░░░░░░░  65%
+Python                   ██████████████░░░░░░░░░  65%
+C# / .NET                ████████████░░░░░░░░░░░  58%
+SQL (MySQL / PostgreSQL) ████████████████░░░░░░░  75%
+MongoDB                  ██████████████░░░░░░░░░  65%
+Docker                   ████████████░░░░░░░░░░░  55%
+CSS / Sass / Tailwind    ████████████████████░░░  90%
+Git / GitHub             ███████████████████░░░░  85%
 ```
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 💼 What I Bring to the Table
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelxs13&show_icons=true&theme=radical&hide_border=false" height="180" style="margin: 12px; border-radius: 12px; box-shadow: 0 2px 10px #00000022;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuelxs13&theme=radical&hide_border=false" height="180" style="margin: 12px; border-radius: 12px; box-shadow: 0 2px 10px #00000022;" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emmanuelxs13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" style="margin: 12px; border-radius: 12px; box-shadow: 0 2px 10px #00000022;" />
-</p>
+<div align="center">
 
----
+| 💡 | Área | Descripción |
+|:---:|:---|:---|
+| 🎨 | **UI/UX Development** | Crafting pixel-perfect, responsive interfaces with modern CSS and component frameworks |
+| ⚡ | **Performance** | Optimizing rendering, lazy loading, and Core Web Vitals for production-grade apps |
+| 🔗 | **API Integration** | RESTful APIs, authentication flows, and real-time data handling |
+| 🗃️ | **Database Design** | Relational & NoSQL schema design, query optimization, migrations |
+| 🐳 | **DevOps Basics** | Containerization with Docker, version control best practices, Linux environments |
+| 🤝 | **Team Player** | Clear communicator, code reviewer, Agile/SDLC workflows |
 
-## 🌎 Idiomas
-
-- 🇪🇸 Español - Nativo
-- 🇺🇸 Inglés - B2
+</div>
 
 ---
 
-## 📬 ¡Conectemos!
+## 🌎 Languages
 
-<p align="center">
-  <a href="mailto:emmanuelberriojimenez13@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contactar-red?style=for-the-badge&logo=gmail&logoColor=white" height="35" style="margin:8px; border-radius:8px; box-shadow: 0 2px 8px #00000022;" />
-  </a>
-  <a href="https://www.linkedin.com/in/emmanuel-berrio-jimenez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" style="margin:8px; border-radius:8px; box-shadow: 0 2px 8px #00000022;" />
-  </a>
-</p>
+<div align="center">
+
+| Language | Level | Progress |
+|:---|:---:|:---|
+| 🇪🇸 Spanish | Native | `████████████████████` 100% |
+| 🇺🇸 English | B2 Upper-Intermediate | `████████████████░░░░` 80% |
+
+</div>
 
 ---
 
-<p align="center">
-  <i>
-    ¿Buscas a alguien proactivo, adaptable y con pasión por la tecnología?<br>
-    💼 ¡Estoy abierto a nuevas oportunidades laborales y colaboraciones!
-  </i>
-</p>
+## 📬 Let's Connect!
+
+<div align="center">
+
+💼 I'm actively open to **remote and on-site opportunities worldwide**.
+
+If you're looking for a **proactive, adaptable fullstack developer** who ships quality code and loves solving real problems — let's talk!
+
+<br/>
+
+[![Send Email](https://img.shields.io/badge/📧%20Send%20Me%20an%20Email-EA4335?style=for-the-badge)](mailto:emmanuelberriojimenez13@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/🔗%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/emmanuel-berrio-jimenez/)
+[![View My GitHub](https://img.shields.io/badge/👨‍💻%20View%20My%20GitHub-181717?style=for-the-badge)](https://github.com/Emmanuelxs13)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+⭐ **If you find my work interesting, consider giving a star to my repos!** ⭐
+
+</div>
